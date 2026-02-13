@@ -1,0 +1,26 @@
+# AntiGravity AI - Requirements
+# Python 3.11 recommended
+
+# Core Framework
+kivy==2.3.1
+kivymd==1.2.0
+
+# AI/ML Libraries
+onnxruntime==1.17.0
+numpy==1.24.3
+
+# Computer Vision & Image Processing
+pillow==10.2.0
+
+# HTTP & Networking
+requests==2.31.0
+
+# Android Integration
+pyjnius==1.5.0
+
+# Speech Recognition
+vosk==0.3.45
+
+# Document Processing
+PyPDF2==3.0.1
+python-docx==1.1.0
