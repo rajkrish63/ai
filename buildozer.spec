@@ -72,7 +72,8 @@ fullscreen = 0
 android.permissions = INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,RECORD_AUDIO,CAMERA
 
 # (int) Target Android API, should be as high as possible (distutils)
-android.api = 33
+# Set to 29 to match Android 10 target device and avoid compatibility issues
+android.api = 29
 
 # (int) Minimum API your APK will support.
 android.minapi = 29
@@ -145,7 +146,7 @@ android.gradle_dependencies = com.google.mlkit:text-recognition:16.0.0
 
 # (bool) Enable AndroidX support. Enable when 'android.gradle_dependencies'
 # contains an 'androidx' package, or any package that depends on AndroidX.
-#android.enable_androidx = True
+android.enable_androidx = True
 
 # (list) Add java compile options
 # this can for example be necessary when importing certain java libraries using the 'android.gradle_dependencies' option
@@ -199,8 +200,8 @@ android.gradle_dependencies = com.google.mlkit:text-recognition:16.0.0
 # (bool) Copy library instead of making a libpymodules.so
 #android.copy_libs = 1
 
-# (str) The Android arch to build for, choices: armeabi-v7a, arm64-v8a, x86, x86_64
-android.arch = arm64-v8a
+# (list) The Android archs to build for, choices: armeabi-v7a, arm64-v8a, x86, x86_64
+android.archs = arm64-v8a
 
 # (int) overrides automatic number of workers used to build the apk
 #android.numeric_workers = 1

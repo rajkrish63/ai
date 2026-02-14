@@ -1,0 +1,45 @@
+02-14 03:09:20.455  1309 30896 E sensors-hal: handle_sns_client_event:431, accel_sample(accelcal_available:0): ts=19998326461128 ns; value = [1.067933, 4.993621, 8.487718], status=3
+02-14 03:09:20.516  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19998403844305 ns; x=0.000214; y=0.000231; z=-0.000706; accuracy=0
+02-14 03:09:20.616  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19998504085139 ns; x=-0.000579; y=-0.000350; z=0.000915; accuracy=0
+02-14 03:09:20.716  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19998604050191 ns; x=0.000979; y=-0.000004; z=-0.000955; accuracy=0
+02-14 03:09:20.720  2510  2719 E JobScheduler: ResourceBudgetManagerInternal is null
+02-14 03:09:20.759  1309 30896 E sensors-hal: handle_sns_client_event:431, accel_sample(accelcal_available:0): ts=19998630218524 ns; value = [1.167634, 4.968895, 8.545944], status=3
+02-14 03:09:20.779 31126 31126 E Zygote  : process_name_ptr:31126 com.google.android.apps.photos
+02-14 03:09:20.779 31126 31126 E Zygote  : SetMemoryProtected process_name_ptr:31126 com.google.android.apps.photos
+02-14 03:09:20.816  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19998704069305 ns; x=0.000399; y=0.000211; z=-0.000832; accuracy=0
+02-14 03:09:20.916  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19998804066180 ns; x=-0.000359; y=0.000324; z=-0.000033; accuracy=0
+02-14 03:09:20.978  1309 27217 E sensors-hal: handle_sns_std_sensor_event:69, ambient_light_event: ts=19998865693055, lux = 0, raw_data1=0, raw_data2=0
+02-14 03:09:21.016  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19998904047118 ns; x=0.000416; y=-0.000155; z=-0.000264; accuracy=0
+02-14 03:09:21.062  1309 30896 E sensors-hal: handle_sns_client_event:431, accel_sample(accelcal_available:0): ts=19998933952691 ns; value = [1.120575, 5.002395, 8.752524], status=3
+02-14 03:09:21.116  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999003777482 ns; x=-0.000847; y=-0.000332; z=0.124638; accuracy=0
+02-14 03:09:21.215  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999103171493 ns; x=-0.000459; y=-0.000283; z=0.113508; accuracy=0
+02-14 03:09:21.259  1252  1312 E minksocket: MinkIPC_QRTR_Service: client with node 1 port 483f went down
+02-14 03:09:21.261  1252  1312 E minksocket: MinkIPC_QRTR_Service: client with node 1 port 4840 went down
+02-14 03:09:21.273  1252  1312 E minksocket: MinkIPC_QRTR_Service: client with node 1 port 4841 went down
+02-14 03:09:21.277  1252  1312 E minksocket: MinkIPC_QRTR_Service: client with node 1 port 4842 went down
+02-14 03:09:21.316  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999203840711 ns; x=0.112419; y=0.000361; z=-0.142717; accuracy=0
+02-14 03:09:21.367  1309 30896 E sensors-hal: handle_sns_client_event:431, accel_sample(accelcal_available:0): ts=19999237691389 ns; value = [0.993755, 5.240880, 8.148735], status=3
+02-14 03:09:21.416  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999304057274 ns; x=0.111767; y=0.000093; z=-0.106115; accuracy=0
+02-14 03:09:21.425 31159 31159 E Zygote  : process_name_ptr:31159 com.google.android.googlequicksearchbox:googleapp
+02-14 03:09:21.427 31159 31159 E Zygote  : SetMemoryProtected process_name_ptr:31159 com.google.android.googlequicksearchbox:googleapp
+02-14 03:09:21.457 31126 31126 E FileUtils: err open mi_exception_log errno=2
+02-14 03:09:21.457 31126 31126 E FileUtils: err write to mi_exception_log
+02-14 03:09:21.516  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999404028732 ns; x=0.000315; y=-0.000756; z=0.000894; accuracy=0
+02-14 03:09:21.616  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999504048941 ns; x=0.000617; y=-0.000296; z=-0.000398; accuracy=0
+02-14 03:09:21.670  1309 30896 E sensors-hal: handle_sns_client_event:431, accel_sample(accelcal_available:0): ts=19999541412482 ns; value = [1.004922, 5.354140, 8.116034], status=3
+02-14 03:09:21.716  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999604043107 ns; x=0.144647; y=-0.000122; z=-0.195451; accuracy=0
+02-14 03:09:21.816  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999704055659 ns; x=0.000357; y=-0.000406; z=-0.000572; accuracy=0
+02-14 03:09:21.916  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999803665034 ns; x=-0.000271; y=-0.000160; z=-0.000640; accuracy=0
+02-14 03:09:21.921   353   557 E lowmemorykiller: process_mrelease 31126 failed: No such process
+02-14 03:09:21.967  2510  3003 E ProcessManager: error write exception log
+02-14 03:09:21.974  1309 30896 E sensors-hal: handle_sns_client_event:431, accel_sample(accelcal_available:0): ts=19999845170920 ns; value = [0.775211, 5.534399, 8.221317], status=3
+02-14 03:09:22.002 30836 30836 E FileUtils: err write to mi_exception_log
+02-14 03:09:22.003  1309 27217 E sensors-hal: handle_sns_std_sensor_event:69, ambient_light_event: ts=19999890944670, lux = 0, raw_data1=0, raw_data2=0
+02-14 03:09:22.013 31159 31159 E FileUtils: err open mi_exception_log errno=2
+02-14 03:09:22.013 31159 31159 E FileUtils: err write to mi_exception_log
+02-14 03:09:22.016  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=19999903436076 ns; x=0.000858; y=0.000129; z=-0.206921; accuracy=0
+02-14 03:09:22.116  1309 30898 E sensors-hal: handle_sns_client_event:65, virtual_gyro_hal_event: ts=20000003789826 ns; x=0.000745; y=-0.000372; z=-0.000428; accuracy=0
+02-14 03:09:22.169 31159 31159 E FileUtils: err write to mi_exception_log
+02-14 03:10:01.853  3478  5274 E ActivityManagerWrapper:  mainTaskId=78   userId=0   windowMode=1   baseIntent=Intent { act=null flag=276824064 cmp=ComponentInfo{com.android.vending/com.google.android.finsky.protectdialogs.activity.PlayProtectDialogsActivity} }
+02-14 03:10:01.853  3478  5274 E ActivityManagerWrapper:  mainTaskId=77   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{org.telegram.messenger/org.telegram.messenger.AquaIcon} }
+02-14 03:10:01.853  3478  5274 E ActivityManagerWrapper:  mainTaskId=76   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=268435456 cmp=ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity} }
